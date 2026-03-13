@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AVA1</string>
+    <string name="schedule_appointment">Agendar Consulta</string>
 </resources>
